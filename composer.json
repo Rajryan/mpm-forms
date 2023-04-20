@@ -1,0 +1,21 @@
+{
+    "name": "mpm/forms",
+    "description": "Ease dynamic form creation",
+    "type": "library",
+    "require": {
+        "php": "8.2.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mpm\\Forms\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "raaz maholia",
+            "email": "maholialekhraj46@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
