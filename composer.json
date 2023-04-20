@@ -3,7 +3,7 @@
     "description": "Ease dynamic form creation",
     "type": "library",
     "require": {
-        "php": ">=8.0.0"
+        "php": ">=8.0"
     },
     "license": "MIT",
     "autoload": {
